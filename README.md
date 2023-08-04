@@ -1,4 +1,7 @@
-### AI 엔지니어 유미리입니다. 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7EFE9&height=330&section=header&text=Yimiri%20Github&fontSize=90" />
+
+### ML/DL AI Engineer 유미리입니다. 👋
+
 
 <!--
 **Yu-Miri/Yu-Miri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

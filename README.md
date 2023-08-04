@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7EFE9&height=330&section=header&text=Yimiri%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=330&section=header&text=Yimiri%20Github&fontSize=90" />
 
 ### ML/DL AI Engineer 유미리입니다. 👋
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Miri&layout=compact"><br><br>
 
 
 <!--

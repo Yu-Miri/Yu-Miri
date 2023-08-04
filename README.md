@@ -1,4 +1,4 @@
-### Hi there 👋
+### AI 엔지니어 유미리입니다. 👋
 
 <!--
 **Yu-Miri/Yu-Miri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 
 
-##### 🖥 Environment 🖥
+##### 🖥 Development Environment 🖥
 <img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=macos&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> </br> 
 <img src="https://img.shields.io/badge/Google Colab Pro+-F7DF1E?style=flat-square&logo=googlecolab&logoColor=black"/>

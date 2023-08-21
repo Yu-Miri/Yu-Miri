@@ -55,7 +55,7 @@
 
 > 개요 : [Image Classification] ResNet 모델을 활용하여 여성 소비자의 체형 사진을 분류하여 체형의 단점을 보완할 수 있는 스타일링 선택에 도움을 줄 수 있는 체형 정보 제공<br/>
 > 프로젝트 인원 : 3명<br/>
-> 프로젝트 기간 : 2023.02.16 ~ 2023.03.31<br/>
+> 프로젝트 기간 : 2023.03.10 ~ 2023.03.31<br/>
 > 상세 역할 : 크롤링, 데이터 레이블링 및 전처리, 모델 핸들링<br/>
 > github : [Classification of women’s body types](https://github.com/Yu-Miri/Classification_of_Womens_Body_Types.git)
 

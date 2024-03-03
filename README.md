@@ -4,7 +4,7 @@
 #### 👋 안녕하세요. ML/DL AI Engineer 유미리입니다.
 
 # 🗣 Profile
-> 🎓 Education<br/> 명지대학교 경제학과 졸업예정<br/>
+> 🎓 Education<br/> 명지대학교 경제학과 졸업<br/>
 > <br/>
 > 📖 Learning<br/> (주)알파코 [누구나 AI]빅데이터 기반 딥러닝 부트캠프 2022.12.27~ 2023.06.30 (975시간)<br/>
 > <br/>
